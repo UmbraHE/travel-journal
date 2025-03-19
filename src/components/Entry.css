@@ -1,0 +1,69 @@
+.section-1{
+  display: flex;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.fuji{
+    width: 300px;
+    height: 360px;
+    overflow: hidden;
+    border-radius: 5%;
+    flex-shrink: 0;
+    margin-right: 19px;
+    object-fit: cover;
+}
+
+.container-1{
+   display: flex;
+   flex-direction: column;
+}
+
+.top-section{
+  display: inline-flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 50px;
+}
+
+.google-h{
+  color: gray;
+  font-size: 15px;
+  padding-top: 13px;
+  font-weight: 500;
+  font-family: Inter;
+}
+
+.marker{
+  width: 17px;
+  padding-top: 27px;
+  
+}
+.top-section-h2{
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-family: Inter;
+  letter-spacing: 3px;
+  padding-top: 10px;
+  padding-left: 13px;
+}
+
+.content{
+ 
+  margin-left: 50px;
+}
+
+.date{
+  color: black;
+  font-size: 1rem;
+  padding-left: 0px;
+}
+
+.fuji-h1{
+  font-size: 2.2rem;
+}
+
+.content-p{
+  font-size: 1rem;
+}
+
